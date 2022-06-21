@@ -1,0 +1,59 @@
+div{
+    text-align: center;
+    align-content: center;
+}
+
+#title{
+    font : 100px,Damion,cursive; 
+    color: azure;
+    
+    text-align: center;
+    text-decoration: dashed;
+    font-size: 8rem;
+    font-stretch: expanded;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-shadow: 85px;
+    text-decoration-color: aliceblue;
+    text-decoration: solid;
+    text-decoration-thickness: 100px;
+}
+caption{
+    color: green;
+    font: size 40px;
+    margin-bottom: 30px;
+}
+#start{
+    font-size: 20px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+}
+#caption{
+    margin-top: 5rem;
+    font-size: x-large;
+    color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/b1/25/2a/b1252a6a01a76c89e27b0648ea855be2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;   
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+}
+#shufflein{
+    font-size: 20px;
+    padding-left: 2rem;
+    padding-right: 2rem;   
+}
+#shufflecapt{
+    font-size: x-large;
+
+    margin-top: 3rem;
+    color: bisque;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}

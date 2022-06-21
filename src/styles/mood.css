@@ -1,0 +1,58 @@
+
+#container{
+   
+   display: flex;
+   justify-content: center;
+   align-items: center; 
+   flex-wrap: wrap;
+}
+
+#sad{
+  background-color: black;
+    color: wheat;
+    font-size: 2rem;
+    border: none;
+}
+
+#Happy{
+   background-color: black;
+    color: wheat;
+    font-size: 2rem;
+    border: none;
+}
+#Angry{
+   background-color: black;
+    color: wheat;
+    font-size: 2rem;
+    border: none;
+   
+}
+#Energetic{
+    background-color: black;
+    color: wheat;
+    font-size: 2rem;
+    border: none;
+    
+}
+#Shocked{
+   background-color: black;
+    color: wheat;
+    font-size: 2rem;
+    border: none;
+   
+}
+#Anxious{
+    background-color: black;
+    color: wheat;
+    font-size: 2rem;
+    border: none;
+}
+
+
+#Row{
+    margin-bottom: 5rem;
+    font-size: 2rem;
+}
+#result{
+    font-size: 3rem;
+}
